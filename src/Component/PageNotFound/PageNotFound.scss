@@ -1,0 +1,16 @@
+$primary-color:#0f171e;
+$secondary-color:#1a242f;
+$font-primary:#ffffff;
+$font-secondary:#79b8f3;
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 395px;
+    background: $primary-color;
+    color: $font-secondary;
+}

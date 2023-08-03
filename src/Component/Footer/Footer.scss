@@ -1,0 +1,13 @@
+$primary-color:#0f171e;
+$secondary-color:#1a242f;
+$font-primary:#ffffff;
+$font-secondary:#79b8f3;
+.footer{
+    background-color: $secondary-color;
+    height: 72px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: $font-primary;
+    flex-direction: column;
+}
